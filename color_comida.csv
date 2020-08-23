@@ -58,8 +58,8 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 15/8,Almuerzo,I,tarta,queso,lacteo,crema,#FFFACD,0.25
 15/8,Almuerzo,I,tarta,tomate,fruta,rojo,#DC143C,0.25
 15/8,Almuerzo,I,tarta,ciboulette,verdura,verde,#32CD32,0.05
-15/8,Cena,D,tortellini al curry,tortellini,cereal,amarillo,#FFD700,0.35
-15/8,Cena,D,tortellini al curry,salmon,carne,salmon,#FA8072,0.65
+15/8,Cena,D,tortellini de salmon al curry,tortellini,cereal,amarillo,#FFD700,0.35
+15/8,Cena,D,tortellini de salmon al curry,salmon,carne,salmon,#FA8072,0.65
 16/8,Almuerzo,I,wrap,pollo,carne,marron,#B46446,0.3
 16/8,Almuerzo,I,wrap,soja,verdura,blanco,#FFFFFF,0.1
 16/8,Almuerzo,I,wrap,zanahoria,verdura,naranja,#FF8C00,0.1
