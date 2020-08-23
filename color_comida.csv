@@ -116,3 +116,7 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,queso,lacteo,crema,#FFFACD,0.1
 22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,#FFFFFF,0.2
 22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,#32CD32,0.15
+22/8,Cena,I,cabutia rellena,cabutia,verdura,naranja,#FF8C00,0.7
+22/8,Cena,I,cabutia rellena,queso,lacteo,crema,#FFFACD,0.25
+22/8,Cena,I,cabutia rellena,verdeo,verdura,blanco,#FFFFFF,0.025
+22/8,Cena,I,cabutia rellena,ciboulette,verdura,verde,#32CD32,0.025
