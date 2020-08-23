@@ -58,9 +58,8 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 15/8,Almuerzo,I,tarta,queso,lacteo,crema,#FFFACD,0.25
 15/8,Almuerzo,I,tarta,tomate,fruta,rojo,#DC143C,0.25
 15/8,Almuerzo,I,tarta,ciboulette,verdura,verde,#32CD32,0.05
-15/8,Cena,D,raba,raba,carne,ocre,#F0E68C,0.35
-15/8,Cena,D,tortellini al curry,tortellini,cereal,amarillo,#FFD700,0.25
-15/8,Cena,D,tortellini al curry,salmon,carne,salmon,#FA8072,0.4
+15/8,Cena,D,tortellini al curry,tortellini,cereal,amarillo,#FFD700,0.35
+15/8,Cena,D,tortellini al curry,salmon,carne,salmon,#FA8072,0.65
 16/8,Almuerzo,I,wrap,pollo,carne,marron,#B46446,0.3
 16/8,Almuerzo,I,wrap,soja,verdura,blanco,#FFFFFF,0.1
 16/8,Almuerzo,I,wrap,zanahoria,verdura,naranja,#FF8C00,0.1
@@ -112,3 +111,8 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 21/8,Cena,I,matambre a la pizza c/ ensalada,queso,lacteo,crema,#FFFACD,0.1
 21/8,Cena,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,#FFFFFF,0.15
 21/8,Cena,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,#32CD32,0.15
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,matambre,carne,marron,#B46446,0.35
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,tomate,fruta,rojo,#DC143C,0.2
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,queso,lacteo,crema,#FFFACD,0.1
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,#FFFFFF,0.2
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,#32CD32,0.15
