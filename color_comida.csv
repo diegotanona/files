@@ -12,8 +12,8 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 9/8,Almuerzo,Y,panzotti suizo c/ crema,lomo ahumado,carne,marron,#B46446,0.3
 9/8,Almuerzo,Y,panzotti suizo c/ crema,queso,lacteo,crema,#FFFACD,0.2
 9/8,Almuerzo,Y,panzotti suizo c/ crema,hongo,otro,ocre,#F0E68C,0.2
-9/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.3
-9/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.15
+9/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.25
+9/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.2
 9/8,Cena,I,sopa,zanahoria,verdura,naranja,#FF8C00,0.15
 9/8,Cena,I,sopa,papa,verdura,blanco,#FFFFFF,0.15
 9/8,Cena,I,sopa,perejil,verdura,verde,#32CD32,0.1
@@ -58,8 +58,8 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 15/8,Almuerzo,I,tarta,queso,lacteo,crema,#FFFACD,0.25
 15/8,Almuerzo,I,tarta,tomate,fruta,rojo,#DC143C,0.25
 15/8,Almuerzo,I,tarta,ciboulette,verdura,verde,#32CD32,0.05
-15/8,Cena,D,tortellini de salmon al curry,tortellini,cereal,amarillo,#FFD700,0.35
-15/8,Cena,D,tortellini de salmon al curry,salmon,carne,salmon,#FA8072,0.65
+15/8,Cena,D,tortellini de salmon al curry,tortellini,cereal,amarillo,#FFD700,0.4
+15/8,Cena,D,tortellini de salmon al curry,salmon,carne,salmon,#FA8072,0.6
 16/8,Almuerzo,I,wrap,pollo,carne,marron,#B46446,0.3
 16/8,Almuerzo,I,wrap,soja,verdura,blanco,#FFFFFF,0.1
 16/8,Almuerzo,I,wrap,zanahoria,verdura,naranja,#FF8C00,0.1
@@ -122,13 +122,11 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 22/8,Cena,I,cabutia rellena,ciboulette,verdura,verde,#32CD32,0.025
 23/8,Almuerzo,Y,sandwich miga,pan,cereal,crema,#FFFACD,0.25
 23/8,Almuerzo,Y,sandwich miga,pan,cereal,marron,#B46446,0.15
-23/8,Almuerzo,Y,sandwich miga,queso,lacteo,crema,#FFFACD,0.2
-23/8,Almuerzo,Y,sandwich miga,pavita,carne,crema,#FFFACD,0.2
-23/8,Almuerzo,Y,sandwich miga,jamon,carne,rosa,#FFC0CB,0.1
-23/8,Almuerzo,Y,sandwich miga,anana,fruta,blanco,#FFFFFF,0.1
-23/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.35
-23/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.15
-23/8,Cena,I,sopa,zanahoria,verdura,naranja,#FF8C00,0.15
-23/8,Cena,I,sopa,papa,verdura,blanco,#FFFFFF,0.15
-23/8,Cena,I,sopa,perejil,verdura,verde,#32CD32,0.1
-23/8,Cena,I,sopa,puerro,verdura,blanco,#FFFFFF,0.1
+23/8,Almuerzo,Y,sandwich miga,queso,lacteo,crema,#FFFACD,0.15
+23/8,Almuerzo,Y,sandwich miga,pavita,carne,crema,#FFFACD,0.15
+23/8,Almuerzo,Y,sandwich miga,jamon,carne,rosa,#FFC0CB,0.15
+23/8,Almuerzo,Y,sandwich miga,anana,fruta,blanco,#FFFFFF,0.15
+23/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.25
+23/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.35
+23/8,Cena,I,sopa,fideo,cereal,crema,#FFFACD,0.35
+23/8,Cena,Y,sopa,queso,lacteo,crema,#FFFACD,0.05
