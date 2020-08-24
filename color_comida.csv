@@ -126,9 +126,9 @@ Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
 23/8,Almuerzo,Y,sandwich miga,pavita,carne,crema,#FFFACD,0.2
 23/8,Almuerzo,Y,sandwich miga,jamon,carne,rosa,#FFC0CB,0.1
 23/8,Almuerzo,Y,sandwich miga,anana,fruta,blanco,#FFFFFF,0.1
-23/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.3
+23/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.35
 23/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.15
 23/8,Cena,I,sopa,zanahoria,verdura,naranja,#FF8C00,0.15
 23/8,Cena,I,sopa,papa,verdura,blanco,#FFFFFF,0.15
 23/8,Cena,I,sopa,perejil,verdura,verde,#32CD32,0.1
-23/8,Cena,I,sopa,puerro,verdura,blanco,#FFFFFF,0.15
+23/8,Cena,I,sopa,puerro,verdura,blanco,#FFFFFF,0.1
