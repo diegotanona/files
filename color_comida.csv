@@ -1,132 +1,132 @@
-Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Codigo,Porcentaje
-8/8,Almuerzo,I,mila pollo c/ arroz,milanesa pollo,carne,ocre,#F0E68C,0.5
-8/8,Almuerzo,I,mila pollo c/ arroz,arroz,cereal,blanco,#FFFFFF,0.4
-8/8,Almuerzo,I,mila pollo c/ arroz,queso,lácteo,crema,#FFFACD,0.1
-8/8,Cena,I,hamburguesa,pan,cereal,ocre,#F0E68C,0.2
-8/8,Cena,Y,hamburguesa,carne picada,carne,marrón,#B46446,0.4
-8/8,Cena,Y,hamburguesa,queso,lácteo,amarillo,#FFD700,0.1
-8/8,Cena,I,hamburguesa,tomate,fruta,rojo,#DC143C,0.1
-8/8,Cena,Y,hamburguesa,cebolla,verdura,blanco,#FFFFFF,0.1
-8/8,Cena,Y,hamburguesa,pepino,verdura,verde,#32CD32,0.1
-9/8,Almuerzo,Y,panzotti suizo c/ crema,panzotti,cereal,crema,#FFFACD,0.3
-9/8,Almuerzo,Y,panzotti suizo c/ crema,lomo ahumado,carne,marrón,#B46446,0.3
-9/8,Almuerzo,Y,panzotti suizo c/ crema,queso,lácteo,crema,#FFFACD,0.2
-9/8,Almuerzo,Y,panzotti suizo c/ crema,hongo,otro,ocre,#F0E68C,0.2
-9/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.25
-9/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.2
-9/8,Cena,I,sopa,zanahoria,verdura,naranja,#FF8C00,0.15
-9/8,Cena,I,sopa,papa,verdura,blanco,#FFFFFF,0.15
-9/8,Cena,I,sopa,perejil,verdura,verde,#32CD32,0.1
-9/8,Cena,I,sopa,puerro,verdura,blanco,#FFFFFF,0.1
-9/8,Cena,Y,sopa,queso,lácteo,crema,#FFFACD,0.05
-10/8,Almuerzo,Y,mila c/ ensalada,milanesa,carne,marrón,#B46446,0.5
-10/8,Almuerzo,I,mila c/ ensalada,tomate,fruta,rojo,#DC143C,0.15
-10/8,Almuerzo,I,mila c/ ensalada,palta,fruta,verde,#32CD32,0.15
-10/8,Almuerzo,I,mila c/ ensalada,queso,lácteo,crema,#FFFACD,0.2
-10/8,Cena,I,pollo c/ papa,pollo,carne,ocre,#F0E68C,0.6
-10/8,Cena,I,pollo c/ papa,papa,verdura,ocre,#F0E68C,0.4
-11/8,Almuerzo,Y,salchicha c/ arroz,salchicha,carne,salmón,#FA8072,0.4
-11/8,Almuerzo,Y,salchicha c/ arroz,arroz,cereal,blanco,#FFFFFF,0.5
-11/8,Almuerzo,Y,salchicha c/ arroz,queso,lácteo,crema,#FFFACD,0.1
-11/8,Cena,Y,bife c/ puré calabaza,bife,carne,marrón,#B46446,0.5
-11/8,Cena,Y,bife c/ puré calabaza,calabaza,verdura,naranja,#FF8C00,0.5
-12/8,Almuerzo,I,fideo c/ tuco,pasta,cereal,rojo,#DC143C,0.8
-12/8,Almuerzo,Y,fideo c/ tuco,queso,lácteo,crema,#FFFACD,0.2
-12/8,Cena,Y,matambre cerdo c/ noisette,matambre cerdo,carne,ocre,#F0E68C,0.5
-12/8,Cena,Y,matambre cerdo c/ noisette,papa,verdura,ocre,#F0E68C,0.5
-13/8,Almuerzo,Y,matambre cerdo c/ ensalada,matambre cerdo,carne,ocre,#F0E68C,0.5
-13/8,Almuerzo,Y,matambre cerdo c/ ensalada,tomate,fruta,rojo,#DC143C,0.25
-13/8,Almuerzo,Y,matambre cerdo c/ ensalada,queso,lácteo,crema,#FFFACD,0.25
-13/8,Cena,Y,carne horno c/ ensalada,picaña,carne,marrón,#B46446,0.5
-13/8,Cena,I,carne horno c/ ensalada,tomate,fruta,rojo,#DC143C,0.15
-13/8,Cena,I,carne horno c/ ensalada,lechuga,verdura,verde,#32CD32,0.2
-13/8,Cena,I,carne horno c/ ensalada,cebolla,verdura,blanco,#FFFFFF,0.15
-14/8,Almuerzo,D,empanada,empanada,cereal,ocre,#F0E68C,0.2
-14/8,Almuerzo,D,empanada,carne picada,carne,marrón,#B46446,0.6
-14/8,Almuerzo,D,empanada,aceituna,fruta,verde,#32CD32,0.1
-14/8,Almuerzo,D,empanada,cebolla,verdura,crema,#FFFACD,0.05
-14/8,Almuerzo,D,empanada,morrón,verdura,rojo,#DC143C,0.05
-14/8,Cena,D,sushi,salmón,carne,salmón,#FA8072,0.3
-14/8,Cena,D,sushi,langostino,carne,rosa,#FFC0CB,0.2
-14/8,Cena,D,sushi,arroz,cereal,blanco,#FFFFFF,0.2
-14/8,Cena,D,sushi,queso,lácteo,crema,#FFFACD,0.1
-14/8,Cena,D,sushi,palta,fruta,verde,#32CD32,0.1
-14/8,Cena,D,sushi,mango,fruta,amarillo,#FFD700,0.05
-14/8,Cena,D,sushi,jengibre,verdura,rosa,#FFC0CB,0.05
-15/8,Almuerzo,I,tarta,tarta,cereal,ocre,#F0E68C,0.2
-15/8,Almuerzo,I,tarta,jamón,carne,rosa,#FFC0CB,0.25
-15/8,Almuerzo,I,tarta,queso,lácteo,crema,#FFFACD,0.25
-15/8,Almuerzo,I,tarta,tomate,fruta,rojo,#DC143C,0.25
-15/8,Almuerzo,I,tarta,ciboulette,verdura,verde,#32CD32,0.05
-15/8,Cena,D,tortellini de salmón al curry,tortellini,cereal,amarillo,#FFD700,0.4
-15/8,Cena,D,tortellini de salmón al curry,salmón,carne,salmón,#FA8072,0.6
-16/8,Almuerzo,I,wrap,pollo,carne,marrón,#B46446,0.3
-16/8,Almuerzo,I,wrap,soja,verdura,blanco,#FFFFFF,0.1
-16/8,Almuerzo,I,wrap,zanahoria,verdura,naranja,#FF8C00,0.1
-16/8,Almuerzo,I,wrap,morrón,verdura,rojo,#DC143C,0.1
-16/8,Almuerzo,I,wrap,morrón,verdura,verde,#32CD32,0.1
-16/8,Almuerzo,I,wrap,cebolla,verdura,crema,#FFFACD,0.1
-16/8,Almuerzo,I,wrap,palta,fruta,verde,#32CD32,0.075
-16/8,Almuerzo,Y,wrap,wrap,cereal,ocre,#F0E68C,0.075
-16/8,Almuerzo,Y,wrap,queso untable,lácteo,blanco,#FFFFFF,0.05
-16/8,Cena,D,pizza,pizza,cereal,ocre,#F0E68C,0.25
-16/8,Cena,D,pizza,queso,lácteo,crema,#FFFACD,0.3
-16/8,Cena,D,pizza,tomate,fruta,rojo,#DC143C,0.25
-16/8,Cena,D,pizza,cebolla,verdura,crema,#FFFACD,0.15
-16/8,Cena,D,pizza,aceituna,fruta,verde,#32CD32,0.05
-17/8,Almuerzo,Y,mila c/ espinaca a la crema,milanesa,carne,marrón,#B46446,0.5
-17/8,Almuerzo,I,mila c/ espinaca a la crema,espinaca,verdura,verde,#32CD32,0.4
-17/8,Almuerzo,I,mila c/ espinaca a la crema,crema,lácteo,blanco,#FFFFFF,0.1
-17/8,Cena,D,hamburguesa,pan,cereal,ocre,#F0E68C,0.2
-17/8,Cena,D,hamburguesa,carne picada,carne,marrón,#B46446,0.4
-17/8,Cena,D,hamburguesa,queso,lácteo,amarillo,#FFD700,0.2
-17/8,Cena,D,hamburguesa,panceta,carne,salmón,#FA8072,0.2
-18/8,Almuerzo,Y,atún c/ arroz,atún,carne,ocre,#F0E68C,0.5
-18/8,Almuerzo,Y,atún c/ arroz,arroz,cereal,blanco,#FFFFFF,0.4
-18/8,Almuerzo,Y,atún c/ arroz,queso,lácteo,crema,#FFFACD,0.1
-18/8,Cena,Y,bife c/ ensalada,bife,carne,marrón,#B46446,0.5
-18/8,Cena,Y,bife c/ ensalada,tomate,fruta,rojo,#DC143C,0.15
-18/8,Cena,I,bife c/ ensalada,palta,fruta,verde,#32CD32,0.15
-18/8,Cena,Y,bife c/ ensalada,queso,lácteo,crema,#FFFACD,0.2
-19/8,Almuerzo,D,empanada,empanada,cereal,ocre,#F0E68C,0.2
-19/8,Almuerzo,D,empanada,carne picada,carne,marrón,#B46446,0.3
-19/8,Almuerzo,D,empanada,aceituna,fruta,verde,#32CD32,0.05
-19/8,Almuerzo,D,empanada,cebolla,verdura,crema,#FFFACD,0.025
-19/8,Almuerzo,D,empanada,morrón,verdura,rojo,#DC143C,0.025
-19/8,Almuerzo,D,empanada,espinaca,verdura,verde,#32CD32,0.3
-19/8,Almuerzo,D,empanada,queso,lácteo,crema,#FFFACD,0.1
-19/8,Cena,Y,solomillo a la mostaza c/ noisette,solomillo,carne,amarillo,#FFD700,0.5
-19/8,Cena,Y,solomillo a la mostaza c/ noisette,papa,verdura,ocre,#F0E68C,0.5
-20/8,Almuerzo,Y,solomillo a la mostaza c/ noisette,solomillo,carne,amarillo,#FFD700,0.6
-20/8,Almuerzo,Y,solomillo a la mostaza c/ noisette,papa,verdura,ocre,#F0E68C,0.4
-20/8,Cena,I,mila c/ espinaca a la crema,milanesa,carne,marrón,#B46446,0.5
-20/8,Cena,I,mila c/ espinaca a la crema,espinaca,verdura,verde,#32CD32,0.4
-20/8,Cena,I,mila c/ espinaca a la crema,crema,lácteo,blanco,#FFFFFF,0.1
-21/8,Almuerzo,Y,atún c/ ensalada,atún,carne,ocre,#F0E68C,0.5
-21/8,Almuerzo,I,atún c/ ensalada,tomate,fruta,rojo,#DC143C,0.2
-21/8,Almuerzo,I,atún c/ ensalada,palta,fruta,verde,#32CD32,0.1
-21/8,Almuerzo,I,atún c/ ensalada,queso,lácteo,crema,#FFFACD,0.2
-21/8,Cena,Y,matambre a la pizza c/ ensalada,matambre,carne,marrón,#B46446,0.35
-21/8,Cena,I,matambre a la pizza c/ ensalada,tomate,fruta,rojo,#DC143C,0.25
-21/8,Cena,I,matambre a la pizza c/ ensalada,queso,lácteo,crema,#FFFACD,0.1
-21/8,Cena,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,#FFFFFF,0.15
-21/8,Cena,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,#32CD32,0.15
-22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,matambre,carne,marrón,#B46446,0.35
-22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,tomate,fruta,rojo,#DC143C,0.2
-22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,queso,lácteo,crema,#FFFACD,0.1
-22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,#FFFFFF,0.2
-22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,#32CD32,0.15
-22/8,Cena,I,cabutia rellena,cabutia,verdura,naranja,#FF8C00,0.7
-22/8,Cena,I,cabutia rellena,queso,lácteo,crema,#FFFACD,0.25
-22/8,Cena,I,cabutia rellena,verdeo,verdura,blanco,#FFFFFF,0.025
-22/8,Cena,I,cabutia rellena,ciboulette,verdura,verde,#32CD32,0.025
-23/8,Almuerzo,Y,sandwich miga,pan,cereal,crema,#FFFACD,0.25
-23/8,Almuerzo,Y,sandwich miga,pan,cereal,marrón,#B46446,0.15
-23/8,Almuerzo,Y,sandwich miga,queso,lácteo,crema,#FFFACD,0.15
-23/8,Almuerzo,Y,sandwich miga,pavita,carne,crema,#FFFACD,0.15
-23/8,Almuerzo,Y,sandwich miga,jamón,carne,rosa,#FFC0CB,0.15
-23/8,Almuerzo,Y,sandwich miga,ananá,fruta,blanco,#FFFFFF,0.15
-23/8,Cena,I,sopa,caldo,otro,aqua,#E0FFFF,0.25
-23/8,Cena,I,sopa,calabaza,verdura,naranja,#FF8C00,0.35
-23/8,Cena,I,sopa,fideo,cereal,crema,#FFFACD,0.35
-23/8,Cena,Y,sopa,queso,lácteo,crema,#FFFACD,0.05
+Fecha,Momento,Preparo,Plato,Comida,Tipo,Color,Porcentaje
+8/8,Almuerzo,I,mila pollo c/ arroz,milanesa pollo,carne,ocre,0.5
+8/8,Almuerzo,I,mila pollo c/ arroz,arroz,cereal,blanco,0.4
+8/8,Almuerzo,I,mila pollo c/ arroz,queso,lácteo,crema,0.1
+8/8,Cena,I,hamburguesa,pan,cereal,ocre,0.2
+8/8,Cena,Y,hamburguesa,carne picada,carne,marrón,0.4
+8/8,Cena,Y,hamburguesa,queso,lácteo,amarillo,0.1
+8/8,Cena,I,hamburguesa,tomate,fruta,rojo,0.1
+8/8,Cena,Y,hamburguesa,cebolla,verdura,blanco,0.1
+8/8,Cena,Y,hamburguesa,pepino,verdura,verde,0.1
+9/8,Almuerzo,Y,panzotti suizo c/ crema,panzotti,cereal,crema,0.3
+9/8,Almuerzo,Y,panzotti suizo c/ crema,lomo ahumado,carne,marrón,0.3
+9/8,Almuerzo,Y,panzotti suizo c/ crema,queso,lácteo,crema,0.2
+9/8,Almuerzo,Y,panzotti suizo c/ crema,hongo,otro,ocre,0.2
+9/8,Cena,I,sopa,caldo,otro,aqua,0.25
+9/8,Cena,I,sopa,calabaza,verdura,naranja,0.2
+9/8,Cena,I,sopa,zanahoria,verdura,naranja,0.15
+9/8,Cena,I,sopa,papa,verdura,blanco,0.15
+9/8,Cena,I,sopa,perejil,verdura,verde,0.1
+9/8,Cena,I,sopa,puerro,verdura,blanco,0.1
+9/8,Cena,Y,sopa,queso,lácteo,crema,0.05
+10/8,Almuerzo,Y,mila c/ ensalada,milanesa,carne,marrón,0.5
+10/8,Almuerzo,I,mila c/ ensalada,tomate,fruta,rojo,0.15
+10/8,Almuerzo,I,mila c/ ensalada,palta,fruta,verde,0.15
+10/8,Almuerzo,I,mila c/ ensalada,queso,lácteo,crema,0.2
+10/8,Cena,I,pollo c/ papa,pollo,carne,ocre,0.6
+10/8,Cena,I,pollo c/ papa,papa,verdura,ocre,0.4
+11/8,Almuerzo,Y,salchicha c/ arroz,salchicha,carne,salmón,0.4
+11/8,Almuerzo,Y,salchicha c/ arroz,arroz,cereal,blanco,0.5
+11/8,Almuerzo,Y,salchicha c/ arroz,queso,lácteo,crema,0.1
+11/8,Cena,Y,bife c/ puré calabaza,bife,carne,marrón,0.5
+11/8,Cena,Y,bife c/ puré calabaza,calabaza,verdura,naranja,0.5
+12/8,Almuerzo,I,fideo c/ tuco,pasta,cereal,rojo,0.8
+12/8,Almuerzo,Y,fideo c/ tuco,queso,lácteo,crema,0.2
+12/8,Cena,Y,matambre cerdo c/ noisette,matambre cerdo,carne,ocre,0.5
+12/8,Cena,Y,matambre cerdo c/ noisette,papa,verdura,ocre,0.5
+13/8,Almuerzo,Y,matambre cerdo c/ ensalada,matambre cerdo,carne,ocre,0.5
+13/8,Almuerzo,Y,matambre cerdo c/ ensalada,tomate,fruta,rojo,0.25
+13/8,Almuerzo,Y,matambre cerdo c/ ensalada,queso,lácteo,crema,0.25
+13/8,Cena,Y,carne horno c/ ensalada,picaña,carne,marrón,0.5
+13/8,Cena,I,carne horno c/ ensalada,tomate,fruta,rojo,0.15
+13/8,Cena,I,carne horno c/ ensalada,lechuga,verdura,verde,0.2
+13/8,Cena,I,carne horno c/ ensalada,cebolla,verdura,blanco,0.15
+14/8,Almuerzo,D,empanada,empanada,cereal,ocre,0.2
+14/8,Almuerzo,D,empanada,carne picada,carne,marrón,0.6
+14/8,Almuerzo,D,empanada,aceituna,fruta,verde,0.1
+14/8,Almuerzo,D,empanada,cebolla,verdura,crema,0.05
+14/8,Almuerzo,D,empanada,morrón,verdura,rojo,0.05
+14/8,Cena,D,sushi,salmón,carne,salmón,0.3
+14/8,Cena,D,sushi,langostino,carne,rosa,0.2
+14/8,Cena,D,sushi,arroz,cereal,blanco,0.2
+14/8,Cena,D,sushi,queso,lácteo,crema,0.1
+14/8,Cena,D,sushi,palta,fruta,verde,0.1
+14/8,Cena,D,sushi,mango,fruta,amarillo,0.05
+14/8,Cena,D,sushi,jengibre,verdura,rosa,0.05
+15/8,Almuerzo,I,tarta,tarta,cereal,ocre,0.2
+15/8,Almuerzo,I,tarta,jamón,carne,rosa,0.25
+15/8,Almuerzo,I,tarta,queso,lácteo,crema,0.25
+15/8,Almuerzo,I,tarta,tomate,fruta,rojo,0.25
+15/8,Almuerzo,I,tarta,ciboulette,verdura,verde,0.05
+15/8,Cena,D,tortellini de salmón al curry,tortellini,cereal,amarillo,0.4
+15/8,Cena,D,tortellini de salmón al curry,salmón,carne,salmón,0.6
+16/8,Almuerzo,I,wrap,pollo,carne,marrón,0.3
+16/8,Almuerzo,I,wrap,soja,verdura,blanco,0.1
+16/8,Almuerzo,I,wrap,zanahoria,verdura,naranja,0.1
+16/8,Almuerzo,I,wrap,morrón,verdura,rojo,0.1
+16/8,Almuerzo,I,wrap,morrón,verdura,verde,0.1
+16/8,Almuerzo,I,wrap,cebolla,verdura,crema,0.1
+16/8,Almuerzo,I,wrap,palta,fruta,verde,0.075
+16/8,Almuerzo,Y,wrap,wrap,cereal,ocre,0.075
+16/8,Almuerzo,Y,wrap,queso untable,lácteo,blanco,0.05
+16/8,Cena,D,pizza,pizza,cereal,ocre,0.25
+16/8,Cena,D,pizza,queso,lácteo,crema,0.3
+16/8,Cena,D,pizza,tomate,fruta,rojo,0.25
+16/8,Cena,D,pizza,cebolla,verdura,crema,0.15
+16/8,Cena,D,pizza,aceituna,fruta,verde,0.05
+17/8,Almuerzo,Y,mila c/ espinaca a la crema,milanesa,carne,marrón,0.5
+17/8,Almuerzo,I,mila c/ espinaca a la crema,espinaca,verdura,verde,0.4
+17/8,Almuerzo,I,mila c/ espinaca a la crema,crema,lácteo,blanco,0.1
+17/8,Cena,D,hamburguesa,pan,cereal,ocre,0.2
+17/8,Cena,D,hamburguesa,carne picada,carne,marrón,0.4
+17/8,Cena,D,hamburguesa,queso,lácteo,amarillo,0.2
+17/8,Cena,D,hamburguesa,panceta,carne,salmón,0.2
+18/8,Almuerzo,Y,atún c/ arroz,atún,carne,ocre,0.5
+18/8,Almuerzo,Y,atún c/ arroz,arroz,cereal,blanco,0.4
+18/8,Almuerzo,Y,atún c/ arroz,queso,lácteo,crema,0.1
+18/8,Cena,Y,bife c/ ensalada,bife,carne,marrón,0.5
+18/8,Cena,Y,bife c/ ensalada,tomate,fruta,rojo,0.15
+18/8,Cena,I,bife c/ ensalada,palta,fruta,verde,0.15
+18/8,Cena,Y,bife c/ ensalada,queso,lácteo,crema,0.2
+19/8,Almuerzo,D,empanada,empanada,cereal,ocre,0.2
+19/8,Almuerzo,D,empanada,carne picada,carne,marrón,0.3
+19/8,Almuerzo,D,empanada,aceituna,fruta,verde,0.05
+19/8,Almuerzo,D,empanada,cebolla,verdura,crema,0.025
+19/8,Almuerzo,D,empanada,morrón,verdura,rojo,0.025
+19/8,Almuerzo,D,empanada,espinaca,verdura,verde,0.3
+19/8,Almuerzo,D,empanada,queso,lácteo,crema,0.1
+19/8,Cena,Y,solomillo a la mostaza c/ noisette,solomillo,carne,amarillo,0.5
+19/8,Cena,Y,solomillo a la mostaza c/ noisette,papa,verdura,ocre,0.5
+20/8,Almuerzo,Y,solomillo a la mostaza c/ noisette,solomillo,carne,amarillo,0.6
+20/8,Almuerzo,Y,solomillo a la mostaza c/ noisette,papa,verdura,ocre,0.4
+20/8,Cena,I,mila c/ espinaca a la crema,milanesa,carne,marrón,0.5
+20/8,Cena,I,mila c/ espinaca a la crema,espinaca,verdura,verde,0.4
+20/8,Cena,I,mila c/ espinaca a la crema,crema,lácteo,blanco,0.1
+21/8,Almuerzo,Y,atún c/ ensalada,atún,carne,ocre,0.5
+21/8,Almuerzo,I,atún c/ ensalada,tomate,fruta,rojo,0.2
+21/8,Almuerzo,I,atún c/ ensalada,palta,fruta,verde,0.1
+21/8,Almuerzo,I,atún c/ ensalada,queso,lácteo,crema,0.2
+21/8,Cena,Y,matambre a la pizza c/ ensalada,matambre,carne,marrón,0.35
+21/8,Cena,I,matambre a la pizza c/ ensalada,tomate,fruta,rojo,0.25
+21/8,Cena,I,matambre a la pizza c/ ensalada,queso,lácteo,crema,0.1
+21/8,Cena,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,0.15
+21/8,Cena,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,0.15
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,matambre,carne,marrón,0.35
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,tomate,fruta,rojo,0.2
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,queso,lácteo,crema,0.1
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,cebolla,verdura,blanco,0.2
+22/8,Almuerzo,Y,matambre a la pizza c/ ensalada,lechuga,verdura,verde,0.15
+22/8,Cena,I,cabutia rellena,cabutia,verdura,naranja,0.7
+22/8,Cena,I,cabutia rellena,queso,lácteo,crema,0.25
+22/8,Cena,I,cabutia rellena,verdeo,verdura,blanco,0.025
+22/8,Cena,I,cabutia rellena,ciboulette,verdura,verde,0.025
+23/8,Almuerzo,Y,sandwich miga,pan,cereal,crema,0.25
+23/8,Almuerzo,Y,sandwich miga,pan,cereal,marrón,0.15
+23/8,Almuerzo,Y,sandwich miga,queso,lácteo,crema,0.15
+23/8,Almuerzo,Y,sandwich miga,pavita,carne,crema,0.15
+23/8,Almuerzo,Y,sandwich miga,jamón,carne,rosa,0.15
+23/8,Almuerzo,Y,sandwich miga,ananá,fruta,blanco,0.15
+23/8,Cena,I,sopa,caldo,otro,aqua,0.25
+23/8,Cena,I,sopa,calabaza,verdura,naranja,0.35
+23/8,Cena,I,sopa,fideo,cereal,crema,0.35
+23/8,Cena,Y,sopa,queso,lácteo,crema,0.05
